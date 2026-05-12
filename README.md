@@ -1,6 +1,6 @@
 # 맨업 ManUp Web
 
-Next.js App Router, Supabase, and Tailwind CSS로 만든 남성 성장 관리 웹앱입니다.
+Next.js App Router, Supabase, and Tailwind CSS로 만든 남성 건강 관리 웹앱입니다.
 
 ## Local Development
 
